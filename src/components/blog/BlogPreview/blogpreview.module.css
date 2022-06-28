@@ -1,0 +1,22 @@
+.previewImage {
+  border-radius: 10px;
+  margin-bottom: 20px;
+  width: 100%;
+}
+
+.previewContent {
+  padding-left: 10px;
+}
+
+.previewTitle {
+  color: #13157f;
+  font-size: 20px;
+  font-weight: 600;
+  margin-bottom: 10px;
+}
+
+.previewAuthor {
+  color: #9192a9;
+  font-size: 14px;
+  font-weight: 600;
+}

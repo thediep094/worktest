@@ -1,0 +1,55 @@
+.wrapper {
+  width: 100%;
+}
+
+.header {
+  position: relative;
+  width: 100%;
+  height: 75vh;
+  margin-bottom: 130px;
+}
+
+.headerContent {
+  position: absolute;
+  max-width: 55%;
+  bottom: 15%;
+  left: 12%;
+}
+
+.title {
+  color: #fff;
+  font-size: 70;
+  font-weight: 600;
+}
+
+.author {
+  font-size: 17px;
+  color: #9192a9;
+}
+
+.featuredImage {
+  object-fit: cover;
+  height: 100%;
+  width: 100%;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 0 auto;
+  width: 50%;
+}
+
+.content hr {
+  width: 100%;
+  border: 1px solid #00000010;
+  margin: 0 0 15px 0;
+}
+
+.tags {
+  color: #676767;
+  font-size: 14px;
+  font-weight: 500;
+  align-self: flex-start;
+}
